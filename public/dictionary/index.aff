@@ -1,0 +1,8 @@
+SET UTF-8
+FLAG num
+WORDCHARS abcdefghijklmnopqrstuvwxyz'
+PFX A Y 1
+PFX A 0 re-
+PFX A 0 un-
+SFX N Y 1
+SFX N 0 -ing
